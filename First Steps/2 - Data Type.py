@@ -26,5 +26,3 @@ type("A")
 
 "a".capitalize() # We can avoid to use the print function, it works as well. 
 #Out[5]: 'A'
-
-
