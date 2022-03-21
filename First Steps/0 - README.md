@@ -5,4 +5,4 @@ Resources :
 Data Analysis with Python for Excel Users - Full Course, Course developed by Frank Andrade.
 Reachable at ( https://www.youtube.com/watch?v=WcDaZ67TVRo&t=1s )
 
-For Script: 1-
+For Script: 1 - 2 - 3 - 4 
