@@ -1,14 +1,8 @@
 #References:
-# Contents: 0 to 7
+
 # Data Analysis with Python for Excel Users - Full Course 
 # Course developed by Frank Andrade. 
 # Reachable at ( https://www.youtube.com/watch?v=WcDaZ67TVRo&t=1s )
-
-# Content: 7
-# Python Documentation contents
-# The official documentation for Python 3.10.3.
-# Reachable at ( https://www.youtube.com/watch?v=WcDaZ67TVRo&t=1s )
-
 ########################### Dictionaries ######################################
 
 # Contents: 
