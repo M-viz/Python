@@ -1,5 +1,5 @@
 #References:
-# Contents: 0 to 
+
 # Data Analysis with Python for Excel Users - Full Course 
 # Course developed by Frank Andrade. 
 # Reachable at ( https://www.youtube.com/watch?v=WcDaZ67TVRo&t=1s )
@@ -9,7 +9,7 @@
 
 # Contents: 
 # 0) Introduction 
-
+# 2) Examples 
 
 # 0) Introduction 
 # The if statement is a conditional statement used  to decide whether 
@@ -28,7 +28,7 @@
               
 # The intentation is very important !        
 
-# Examples 
+# 2) Examples 
 age =18 
 if age>=18: 
     print("You are an adult!")
@@ -47,5 +47,4 @@ elif age>=13:
 else: 
     print("You are a kid")
         
-# Out[] You are a teenager
-                                                                                                                                                                                                                                                                                                                                                     
+# Out[] You are a teenager                                                                                                                                                                                                                                                                                                                                                    
