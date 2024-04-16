@@ -1,3 +1,7 @@
+# Function to add time to a given start time and return the final time
+# Funzione per aggiungere del tempo a un'ora di inizio data e restituire l'orario finale
+# https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator
+
 def add_time(start, duration, week_day=' '):    
     start_fmt=start.split()[0]
     start_hours=start_fmt.split(':')[0]
