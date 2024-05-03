@@ -31,6 +31,13 @@ class Category:
             current_balance += entry["amount"]
         return current_balance
     
+    def get_balance_withdraw(self):
+        withdraw_balance=0
+        for entry in self.ledger:
+            if entry["amount"] < 0:
+                withdraw_balance += entry["amount"]
+        return withdraw_balance
+    
     def transfer(self,amount,category):
         if self.check_funds(amount):
             self.withdraw(amount,f'Transfer to {category.category}')
@@ -51,7 +58,7 @@ food.withdraw(10.15, "groceries")
 food.withdraw(15.89, "restaurant and more food for dessert")
 clothing = Category("Clothing")
 food.transfer(50, clothing)
-print(clothing)
+print(food)
 
 def create_spend_chart(categories):
     pass
