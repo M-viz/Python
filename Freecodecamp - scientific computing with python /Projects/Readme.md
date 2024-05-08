@@ -16,9 +16,9 @@ This comprehensive course covers the fundamentals of scientific computing, inclu
 
 3. **Budget App**: The Budget App project emphasizes **Object-Oriented Programming (OOP)** skills by creating classes to represent financial transactions and budgets. It involves **data encapsulation**, **inheritance**, and **method abstraction** to implement functionalities for budget management.
 
-4. **Polygon Area Calculator**: This project demonstrates proficiency in **mathematical computations** and **geometric algorithms**. It requires understanding of **geometry concepts** and implementing algorithms to calculate the area of polygons based on their coordinates.
+<!--4. **Polygon Area Calculator**: This project demonstrates proficiency in **mathematical computations** and **geometric algorithms**. It requires understanding of **geometry concepts** and implementing algorithms to calculate the area of polygons based on their coordinates.
 
-5. **Probability Calculator**: The Probability Calculator project focuses on **statistical analysis** and **probability calculations**. It requires manipulating **random data** and implementing **probability distributions** using Python libraries like NumPy.
+5. **Probability Calculator**: The Probability Calculator project focuses on **statistical analysis** and **probability calculations**. It requires manipulating **random data** and implementing **probability distributions** using Python libraries like NumPy.-->
 
 ## Getting Started
 
@@ -48,9 +48,9 @@ Questo corso completo copre i fondamenti del calcolo scientifico, inclusi strutt
 
 3. **Budget App**: Il progetto Budget App enfatizza le competenze di **Programmazione Orientata agli Oggetti (OOP)** creando classi per rappresentare transazioni finanziarie e budget. Coinvolge l'**incapsulamento dei dati**, **l'ereditarietà** e l'***astrazione del metodo*** per implementare funzionalità per la gestione del budget.
 
-4. **Polygon Area Calculator**: Questo progetto dimostra competenza nei **calcoli matematici** e negli **algoritmi geometrici**. Richiede la comprensione dei **concetti di geometria** e l'implementazione di algoritmi per calcolare l'area dei poligoni in base alle loro coordinate.
+<!--4. **Polygon Area Calculator**: Questo progetto dimostra competenza nei **calcoli matematici** e negli **algoritmi geometrici**. Richiede la comprensione dei **concetti di geometria** e l'implementazione di algoritmi per calcolare l'area dei poligoni in base alle loro coordinate.
 
-5. **Probability Calculator**: Il progetto Probability Calculator si concentra sull'**analisi statistica** e sui **calcoli di probabilità**. Richiede la manipolazione di **dati casuali** e l'implementazione di **distribuzioni di probabilità** utilizzando librerie Python come NumPy.
+5. **Probability Calculator**: Il progetto Probability Calculator si concentra sull'**analisi statistica** e sui **calcoli di probabilità**. Richiede la manipolazione di **dati casuali** e l'implementazione di **distribuzioni di probabilità** utilizzando librerie Python come NumPy.-->
 
 ## Per Iniziare
 
